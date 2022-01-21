@@ -1,6 +1,6 @@
 {
     "name": "sozo/magento2-module-sozo-wysiwygerrorremover",
-    "version": "1.0.0",
+    "version": "400.0.0",
     "description": "Remove the error message shown for WYSIWYG fields when saving in Magento 2.4.3. See https://magento.stackexchange.com/questions/331918/cms-and-block-content-warning-magento-2-4-2",
     "type": "magento2-module",
     "authors": [
