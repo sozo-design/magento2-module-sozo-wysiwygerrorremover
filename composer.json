@@ -14,7 +14,7 @@
     "require": {
         "magento/framework": "*"
     },
-    "license": "proprietary",
+    "license": "OSL-3.0",
     "autoload": {
         "files": [
             "registration.php"
